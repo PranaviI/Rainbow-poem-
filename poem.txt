@@ -4,5 +4,6 @@ Orange
 Pink
 Pruple
 Green
+Red
 Yellow
 These are the colors of the rinbow
